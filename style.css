@@ -1,0 +1,19 @@
+.baitap1{
+    text-align: center;
+    margin: 40px auto;
+    background-color: rgb(188, 188, 188);
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.baitap1 h3{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.baitap1 i{
+    font-size: 150px;
+    margin:20px auto;
+    transition: all 0.2s;
+}
